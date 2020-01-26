@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-26 18:39:35</sys_created_on>
+        <sys_id>48d1dc5e1beec010f5633158cc4bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_personal_pra_loaner_requests.x_snc_personal_pra.user</sys_name>
+        <sys_package display_value="personal practise" source="x_snc_personal_pra">2c60e8ca1ba6c010f5633158cc4bcbb7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="personal practise">2c60e8ca1ba6c010f5633158cc4bcbb7</sys_scope>
+        <sys_security_acl display_value="x_snc_personal_pra_loaner_requests">8cd1dc5e1beec010f5633158cc4bcb32</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_48d1dc5e1beec010f5633158cc4bcb35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-26 18:39:35</sys_updated_on>
+        <sys_user_role display_value="x_snc_personal_pra.user" name="x_snc_personal_pra.user">e460640e1ba6c010f5633158cc4bcbfe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
